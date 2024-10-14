@@ -332,8 +332,7 @@ INVALID INPUT NUMBER OF
 CANDIES LEFT : 10*/
 
 
-
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Candies {
     public static void main(String[] args) {
@@ -425,9 +424,9 @@ c)0<= L[i] <=500*/
 
 
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 
-public class Main {
+public class MainArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 		        System.out.println("Enetr the value");
