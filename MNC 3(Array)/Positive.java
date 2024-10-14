@@ -146,7 +146,7 @@ The output format for testing
 The output should be a positive integer number or print the message (if any) given in the
 problem statement. (Check the output in Example 1, Example 2).*/
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class Main {
     public static int sumDigits(int n) {
         int sum = 0;
@@ -172,7 +172,7 @@ public class Main {
         }
         System.out.println(result);
     }
-}
+} 
 
 
 /*4)Problem Statement
@@ -226,9 +226,9 @@ The output should be a positive integer number (Check the output in Example 1, E
 if no fine is collected then print ”0”*/
 
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 
-public class Main {
+public class Positive {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 		        System.out.println("Enetr the value");
