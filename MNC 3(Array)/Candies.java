@@ -282,7 +282,7 @@ a)First Input line – Accept value of V.
 b)Second Input line- Accept value for W.
 */
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Main2 {
     public static void main(String[] args) {
@@ -333,9 +333,9 @@ CANDIES LEFT : 10*/
 
 
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 
-public class Main {
+public class Candies {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 		        System.out.println("Enetr the value");
@@ -346,11 +346,11 @@ public class Main {
         
         int order = sc.nextInt();
         if (order < 1 || order > M) {
-            System.out.println("INVALID INPUT\nNUMBER OF CANDIES LEFT : " + M);
+            System.out.println("invalid  : " + M);
         } else {
             M -= order;
-            System.out.println("NUMBER OF CANDIES SOLD : " + order);
-            System.out.println("NUMBER OF CANDIES AVAILABLE : " + M);
+            System.out.println("number of candy sold : " + order);
+            System.out.println("number of candy available : " + M);
         }
     }
 }
