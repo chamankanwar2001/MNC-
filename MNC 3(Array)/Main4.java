@@ -424,7 +424,7 @@ c)0<= L[i] <=500*/
 
 
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class MainArray {
     public static void main(String[] args) {
@@ -482,9 +482,9 @@ Note: Follow in input and output format as given in above example*/
 
 
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 
-public class Main {
+public class Main4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 		        System.out.println("Enetr the value");
